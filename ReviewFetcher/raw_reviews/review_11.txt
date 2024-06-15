@@ -1,0 +1,1 @@
+{'title': '2,0 von 5 Sternen\nnach zwei monaten defekt', 'text': 'Es ist ein wirklich schöner Würfel der viel Spaß macht. Leider hat er nur 2 Monate gehalten. Die Folie auf dem Würfel ist nach zwei Monaten gerissen. Dafür ist er zu teuer.', 'rating': '2,0 von 5 Sternen', 'date': datetime.datetime(2024, 2, 10, 0, 0)}

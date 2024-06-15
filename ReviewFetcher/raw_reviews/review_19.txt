@@ -1,0 +1,1 @@
+{'title': '1,0 von 5 Sternen\nViel zu teuer..', 'text': 'Dieser sog. Zauberwürfel besteht aus einfachem Plastik und die Verpackung ist überdimensioniert. Ist das Geld nicht wert.', 'rating': '1,0 von 5 Sternen', 'date': datetime.datetime(2024, 1, 6, 0, 0)}

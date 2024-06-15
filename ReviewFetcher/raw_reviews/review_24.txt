@@ -1,0 +1,1 @@
+{'title': '1,0 von 5 Sternen\nZu teuer für die Möglichkeiten.', 'text': 'Extrem rasch fade und zu teuer!', 'rating': '1,0 von 5 Sternen', 'date': datetime.datetime(2023, 12, 27, 0, 0)}

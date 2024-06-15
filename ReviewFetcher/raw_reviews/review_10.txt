@@ -1,1 +1,1 @@
-{'title': '3,0 von 5 Sternen\nGröße', 'text': 'Das Ding ist kleiner als es dargestellt wird.', 'rating': '3,0 von 5 Sternen', 'date': datetime.datetime(2024, 3, 6, 0, 0)}
+{'title': '1,0 von 5 Sternen\nLeider nur eine leere Packung erhalten', 'text': 'Leider kann gar nichts bewerten da ich nur eine Verpackung erhalten habe. Habe mich eigentlich auf das Produkt gefreut,  da es ein Geburtstagsgeschenk sein sollte. Paket kam, nichts drin außer das Handbuch und die Verpackung,  schade.', 'rating': '1,0 von 5 Sternen', 'date': datetime.datetime(2024, 2, 17, 0, 0)}

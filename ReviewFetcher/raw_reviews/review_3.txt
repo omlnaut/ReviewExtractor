@@ -1,1 +1,1 @@
-{'title': '1,0 von 5 Sternen\nEs war nach wenigen Minuten kaputt.', 'text': '', 'rating': '1,0 von 5 Sternen', 'date': datetime.datetime(2024, 5, 5, 0, 0)}
+{'title': '2,0 von 5 Sternen\nSchon kaputt', 'text': 'Am 05.03.24 gekauft, Ostergeschenk für meine Tochter. Bei dem Preis hätte ich erwartet, dass es robust genug für eine 8jährige ist.', 'rating': '2,0 von 5 Sternen', 'date': datetime.datetime(2024, 4, 15, 0, 0)}
