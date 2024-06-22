@@ -1,1 +1,1 @@
-{'title': '2,0 von 5 Sternen\nSuper', 'text': 'Wird hier aber viiiiieeeeeel zu teuer verkauft', 'rating': '2,0 von 5 Sternen', 'date': datetime.datetime(2024, 1, 28, 0, 0)}
+{'title': '2,0 von 5 Sternen\nSuper', 'text': 'Wird hier aber viiiiieeeeeel zu teuer verkauft', 'rating': '2,0 von 5 Sternen', 'date': '28. Januar 2024'}

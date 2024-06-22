@@ -1,1 +1,1 @@
-{'title': '1,0 von 5 Sternen\nEs war nach wenigen Minuten kaputt.', 'text': '', 'rating': '1,0 von 5 Sternen', 'date': datetime.datetime(2024, 5, 5, 0, 0)}
+{'title': '1,0 von 5 Sternen\nEs war nach wenigen Minuten kaputt.', 'text': '', 'rating': '1,0 von 5 Sternen', 'date': '5. Mai 2024'}

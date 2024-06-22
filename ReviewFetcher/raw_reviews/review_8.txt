@@ -1,1 +1,1 @@
-{'title': '3,0 von 5 Sternen\nSchnell kaputt', 'text': 'Ein interessantes Teil, jedoch nicht grad das, was man Stabil nennen sollte. War denn doch ziemlich schnell hinüber. Und dafür denn doch nicht grad günstig', 'rating': '3,0 von 5 Sternen', 'date': datetime.datetime(2024, 3, 21, 0, 0)}
+{'title': '3,0 von 5 Sternen\nSchnell kaputt', 'text': 'Ein interessantes Teil, jedoch nicht grad das, was man Stabil nennen sollte. War denn doch ziemlich schnell hinüber. Und dafür denn doch nicht grad günstig', 'rating': '3,0 von 5 Sternen', 'date': '21. März 2024'}

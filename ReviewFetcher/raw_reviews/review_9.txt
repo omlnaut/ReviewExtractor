@@ -1,1 +1,1 @@
-{'title': '3,0 von 5 Sternen\nGröße', 'text': 'Das Ding ist kleiner als es dargestellt wird.', 'rating': '3,0 von 5 Sternen', 'date': datetime.datetime(2024, 3, 6, 0, 0)}
+{'title': '3,0 von 5 Sternen\nGröße', 'text': 'Das Ding ist kleiner als es dargestellt wird.', 'rating': '3,0 von 5 Sternen', 'date': '6. März 2024'}

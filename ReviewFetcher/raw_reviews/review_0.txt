@@ -1,1 +1,1 @@
-{'title': '3,0 von 5 Sternen\nToll, aber!', 'text': 'Meine Kinder lieben den Würfel, leider ist er vermutlich nicht dafür gebaut, wirklich lange und ständig verwendet zu werden. Die geklebte Folie löst sich nun ab.', 'rating': '3,0 von 5 Sternen', 'date': datetime.datetime(2024, 5, 25, 0, 0)}
+{'title': '3,0 von 5 Sternen\nToll, aber!', 'text': 'Meine Kinder lieben den Würfel, leider ist er vermutlich nicht dafür gebaut, wirklich lange und ständig verwendet zu werden. Die geklebte Folie löst sich nun ab.', 'rating': '3,0 von 5 Sternen', 'date': '25. Mai 2024'}
