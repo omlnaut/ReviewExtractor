@@ -1,0 +1,3 @@
+Run in Anaconda prompt:
+
+jupyter nbconvert --to html blogpost.ipynb   
